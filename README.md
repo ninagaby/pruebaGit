@@ -1,2 +1,4 @@
 # pruebaGit
-se trata de realizar la prueba de la aplicación
+para realizar la prueba de la aplicación
+##Demostracion del uso de github
+-primer uso
